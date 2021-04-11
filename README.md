@@ -1,6 +1,6 @@
 # SOLID-Principle
 
-### - Single Responsibility Principle
+- ### Single Responsibility Principle
 ### - Open/Closed Principle
 ### - Liskov Substitution Principle
 ### - Interface Segregation Principle
